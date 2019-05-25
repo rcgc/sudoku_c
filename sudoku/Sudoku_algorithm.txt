@@ -1,0 +1,5 @@
+/*http://programandoc.blogspot.mx/2010/10/pequeno-codigo-sudoku.html*/
+Inicio
+
+
+Fin
